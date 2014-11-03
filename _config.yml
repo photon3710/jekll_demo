@@ -1,1 +1,6 @@
-baseurl: 
+username: photon3710
+baseurl: /jekll_demo
+markdown: redcarpet
+safe: false
+pygments: true
+title: TEMP
